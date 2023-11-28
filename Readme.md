@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to display progress bar controls in data cells
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3943/)**
+**[[Run Online]](https://codecentral.devexpress.com/128534596/)**
 <!-- run online end -->
 This example demonstrates how to display [ASPxProgressBar](https://docs.devexpress.com/AspNet/11024/components/data-editors/progressbar) controls in the [ASPxGridView](https://docs.devexpress.com/AspNet/5823/components/grid-view)'s data cells. A progress bar indicator's color depends on the bound value.
 
