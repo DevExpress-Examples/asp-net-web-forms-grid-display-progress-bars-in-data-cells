@@ -21,7 +21,7 @@ Declare [ASPxProgressBar](https://docs.devexpress.com/AspNet/11024/components/da
 - [Grid View Templates](https://docs.devexpress.com/AspNet/3718/components/grid-view/concepts/templates)
 - [Grid View Examples](https://docs.devexpress.com/AspNet/3768/components/grid-view/examples)
 <!-- feedback -->
-## Does This Example Address Your Development Requirements/Objectives?
+## Does this example address your development requirements/objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-display-progress-bars-in-data-cells&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-display-progress-bars-in-data-cells&~~~was_helpful=no)
 
